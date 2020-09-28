@@ -1,0 +1,6 @@
+/Users/owner1/Documents/docs/careerdevs/20-09september/OOPLearning/OOPLearning/bin/Debug/OOPLearning.exe
+/Users/owner1/Documents/docs/careerdevs/20-09september/OOPLearning/OOPLearning/bin/Debug/OOPLearning.pdb
+/Users/owner1/Documents/docs/careerdevs/20-09september/OOPLearning/OOPLearning/obj/x86/Debug/OOPLearning.csprojAssemblyReference.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/OOPLearning/OOPLearning/obj/x86/Debug/OOPLearning.csproj.CoreCompileInputs.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/OOPLearning/OOPLearning/obj/x86/Debug/OOPLearning.exe
+/Users/owner1/Documents/docs/careerdevs/20-09september/OOPLearning/OOPLearning/obj/x86/Debug/OOPLearning.pdb
